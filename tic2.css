@@ -1,0 +1,33 @@
+body{
+    background-image:url(p2.jpeg);
+}
+#table{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 510px;
+}
+h1{
+    margin-left: 700px;
+}
+.turn{
+    font-size: 20px;
+    margin-left: 620px;
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 110px;
+}
+#table{
+    margin-left: 100px;
+}
+#table table{
+    margin:auto;
+}
+#table table tr td input{
+    padding: 60px;
+}
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9{
+    font-size: 30px;
+    color: blue;
+}

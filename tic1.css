@@ -1,0 +1,61 @@
+body{
+  background-image: url(p3.jpeg);
+}
+#head{
+	text-align: center;
+	background-color: antiquewhite;
+	color: blueviolet;
+}
+#mid h2{
+text-align: center;
+color: purple;
+background-color: rgb(192, 247, 204);
+}
+#mid h3{
+text-align: center;
+color: gold;
+}
+.pl1{
+  margin-left: 640px;
+  padding-right: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+.pl2{
+  margin-left: 640px;
+   padding-right: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+.pl1c{
+  margin-left: 640px;
+   padding-right: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+.cho{
+  margin-left: 640px;
+   padding-right: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+.pl2c{
+  margin-left: 640px;
+   padding-right: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+.plbtn{
+	margin-left: 700px;
+	margin-bottom: 10px;
+}
